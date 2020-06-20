@@ -42,7 +42,6 @@ export default function App() {
       }
     }>
       <View style={styles.container}>
-        {/* header */}
         <Header />
         <View style={styles.content}>
         <AddTodo 
@@ -71,9 +70,11 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff'
   },
   content: {
-    padding: 40
+    padding: 40,
+    flex: 1
   },
   list: {
+    flex: 1,
     marginTop: 20
   }
 });
