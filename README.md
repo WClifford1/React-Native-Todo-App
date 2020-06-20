@@ -3,3 +3,5 @@
 ### From The Net Ninja React Native Tutorial
 
 ### [https://www.youtube.com/watch?v=ur6I5m2nTvk](https://www.youtube.com/watch?v=ur6I5m2nTvk)
+
+![Screenshot](assets/screenshot.png "Screenshot")
